@@ -1,0 +1,7 @@
+17:00:52.574 [main] DEBUG com.mindtree.runner.HomePg - book added to the cart
+17:00:58.941 [main] INFO  com.mindtree.runner.HomePg - successfully opened browser
+17:00:59.130 [main] INFO  com.mindtree.runner.HomePg - sent keys in search box
+17:01:14.994 [main] DEBUG com.mindtree.runner.HomePg - searching for book
+17:01:15.016 [main] DEBUG com.mindtree.runner.HomePg - book added to the cart
+17:01:20.057 [main] INFO  com.mindtree.runner.HomePg - successfully opened browser
+17:01:20.158 [main] INFO  com.mindtree.runner.HomePg - sent keys in search box

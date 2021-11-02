@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 53.954 sec <<< FAILURE! - in TestSuite
+validateTitle(com.mindtree.runner.HomePg)  Time elapsed: 3.527 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Book Deals of the Day123] but found [Book Deals of the Day]
+	at com.mindtree.runner.HomePg.validateTitle(HomePg.java:87)
+

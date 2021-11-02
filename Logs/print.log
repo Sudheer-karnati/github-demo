@@ -1,0 +1,10 @@
+22:16:19.444 [main] INFO  com.mindtree.runner.HomePg - book search successful
+22:16:23.787 [main] DEBUG com.mindtree.runner.HomePg - searching for book
+22:16:23.838 [main] DEBUG com.mindtree.runner.HomePg - book added to the cart
+22:16:32.291 [main] INFO  com.mindtree.runner.HomePg - successfully opened browser
+22:16:32.481 [main] INFO  com.mindtree.runner.HomePg - sent keys in search box
+22:16:32.643 [main] INFO  com.mindtree.runner.HomePg - book search successful
+22:16:35.314 [main] DEBUG com.mindtree.runner.HomePg - searching for book
+22:16:35.384 [main] DEBUG com.mindtree.runner.HomePg - book added to the cart
+22:16:44.348 [main] INFO  com.mindtree.runner.HomePg - successfully opened browser
+22:17:00.031 [main] INFO  com.mindtree.runner.HomePg - successfully opened browser
